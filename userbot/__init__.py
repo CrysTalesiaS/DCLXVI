@@ -134,7 +134,7 @@ REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
 # Default .alive name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
 
-# DefaulDeDefaultfaultt .alive logo
+# Default .alive logo
 ALIVE_LOGO = os.environ.get("ALIVE_LOGO") or None
 
 
