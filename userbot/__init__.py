@@ -135,7 +135,7 @@ REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
 
 # Default .alive logo
-ALIVE_LOGO = os.environ.get("ALIVE_LOGO") or None
+ALIVE_LOGO = os.environ.get("ALIVE_LOGO", None)
 
 
 # Chrome stuff
