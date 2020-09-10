@@ -231,10 +231,7 @@ WATCH_COUNTRY = os.environ.get("WATCH_COUNTRY", None)
 # Deezloader
 DEEZER_ARL_TOKEN = os.environ.get("DEEZER_ARL_TOKEN", None)
 
-# Image for alive
-IMG = os.environ.get(
-    "MP4",
-    "https://t.me/AnimeDiskusIndo/16594")
+
 
 # Set default timezone
 TZ = os.environ.get("TZ", "Asia/Jakarta")
